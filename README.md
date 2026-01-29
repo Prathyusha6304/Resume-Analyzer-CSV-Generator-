@@ -3,6 +3,7 @@ AI-powered tool that extracts structured data from PDF and DOCX resumes and expo
 :
 
 🚀 AI-Powered Resume Analyzer & CSV Generator using LangChain
+
 📝 Overview
 
 Built an AI application to automate resume processing, transforming unstructured PDFs and DOCX files into structured, actionable data for hiring teams.
