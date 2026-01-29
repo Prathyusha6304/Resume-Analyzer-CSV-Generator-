@@ -1,0 +1,8 @@
+streamlit
+langchain
+dotenv
+pymupdf
+pandas
+langchain_huggingface
+transformers
+huggingface-hub
